@@ -80,5 +80,7 @@ http://localhost:8080/axis2/services/StockQuoteService?wsdl
 http://localhost:8080/axis2/services/HelloWorldService/message?name=This is it!
 
 - The web service responds with:
-- <ns:messageResponse><ns:return>Hello : This is it!</ns:return></ns:messageResponse>
+<ns:messageResponse><ns:return>
+Hello : This is it!
+</ns:return></ns:messageResponse>
 
