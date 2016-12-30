@@ -74,7 +74,7 @@ o Use Axis2 Maven Plugin to build Axis Archive (*.aar) From Axis Deployment Desc
 Running the Client
 -----------------------------------------
 - Use WSDL
-http://localhost:8080/axis2/services/HelloService?wsdl
+http://localhost:8080/axis2/services/HelloWorldService?wsdl
 
 - Say Hello
 http://localhost:8080/axis2/services/HelloWorldService/message?name=This is it!
