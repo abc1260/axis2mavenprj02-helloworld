@@ -2,7 +2,7 @@ My Basic Axis2 Hello World App Service - Brilliant!
 --------------------------------------------------------------
 - Prove that I got a college degree, and ,,,,,,,,
 - Somehow creating a hello application.
-- Not only can I it say hello, but I can create a Web Service to do it.
+- Not only can I say hello, but I can create a Web Service to do it.
 
 
 Build It
@@ -74,7 +74,7 @@ o Use Axis2 Maven Plugin to build Axis Archive (*.aar) From Axis Deployment Desc
 Running the Client
 -----------------------------------------
 - Use WSDL
-http://localhost:8080/axis2/services/StockQuoteService?wsdl
+http://localhost:8080/axis2/services/HelloService?wsdl
 
 - Say Hello
 http://localhost:8080/axis2/services/HelloWorldService/message?name=This is it!
